@@ -1,6 +1,5 @@
 
 
-
 let contentTypeContainer = document.getElementById("contentTypeContainer");
 contentTypeContainer.style.display = "none";
 let parametersBox = document.getElementById("parametersBox");
